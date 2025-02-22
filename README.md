@@ -10,10 +10,10 @@ This project performs **Exploratory Data Analysis (EDA)** on a sales dataset to 
 
 ## 📂 Dataset
 The dataset contains:
-- **TV Ad Budget **
-- **Radio Ad Budget **
-- **Newspaper Ad Budget **
-- **Sales Revenue **
+- TV Ad 
+- Radio Ad 
+- Newspaper Ad 
+- Sales 
 
 
 ## 🛠️ Tools Used
